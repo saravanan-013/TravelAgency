@@ -77,7 +77,7 @@ function App() {
             <section className="home" id="home">
                 <div className="home-text">
                     <h1> Company <br /> Travel & Tours </h1>
-                    <p id='para'>“The world is a book and those who do not travel <br /> read only one page.”</p>
+                    <h3> "The world is a book and those who do not travel <br /> read only one page.”</h3>
                     <a href="" className="home-btn">Let's go now</a>
                 </div>
             </section>
@@ -403,7 +403,7 @@ function App() {
                     </div>
                 </div>
                 <div className="end-text">
-                    <p>Copyright @2022 All rights reserved | Made by {devName} </p>
+                    <p>Copyright @2024 All rights reserved  </p>
                 </div>
             </section>
         </div>

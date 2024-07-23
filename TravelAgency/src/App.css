@@ -57,7 +57,7 @@ header {
 }
 
 .navbar a {
-  color: var(--bg-color);
+  color: black;
   font-size: var(--p-font);
   font-weight: 500;
   padding: 10px 22px;
@@ -114,6 +114,8 @@ section {
   line-height: 38px;
   margin-bottom: 50px;
 }
+
+
 
 .home-btn {
   display: inline-block;
