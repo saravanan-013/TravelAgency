@@ -1,6 +1,6 @@
 // Packages.js
 import React from 'react';
-import img1 from './assets/img/1.png';
+import img1 from '../assets/img/1.png';
 
 const Packages = () => {
     return (

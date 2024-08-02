@@ -1,8 +1,8 @@
 // Destination.js
 import React from 'react';
-import dest1 from './assets/img/dest1.jpg';
-import dest2 from './assets/img/dest2.jpg';
-import dest3 from './assets/img/dest3.jpg';
+import dest1 from '../assets/img/dest1.jpg';
+import dest2 from '../assets/img/dest2.jpg';
+import dest3 from '../assets/img/dest3.jpg';
 
 const Destination = () => {
     return (

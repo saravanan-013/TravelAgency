@@ -35,12 +35,12 @@ const Footer = () => {
                     </div>
                     <div className="list">
                         <h4>Connect</h4>
-                        <div className="social">
-                            <a><i className="bx bxl-facebook"></i></a>
-                            <a><i className="bx bxl-instagram-alt"></i></a>
-                            <a><i className="bx bxl-twitter"></i></a>
-                            <a><i className="bx bxl-linkedin"></i></a>
-                        </div>
+                        <ul>
+                            <li><a>Instagram</a></li>
+                            <li><a>Facbook</a></li>
+                            <li><a>Linkedin</a></li>
+                            <li><a>Threads</a></li>
+                           </ul>
                     </div>
                 </div>
             </div>

@@ -1,8 +1,10 @@
 // Container.js
 import React from 'react';
-import trip1 from './assets/img/trip1.png';
-import trip3 from './assets/img/trip3.png';
-import trip4 from './assets/img/trip4.png';
+import trip1 from '../assets/img/trip1.png';
+import trip3 from '../assets/img/trip3.png';
+import trip4 from '../assets/img/trip4.png';
+
+// import trip5 from "../assets/img/trip1.png"
 
 const Container = () => {
     return (
