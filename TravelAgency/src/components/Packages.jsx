@@ -11,7 +11,7 @@ const Packages = () => {
             <div className="package-content">
                 {Array(8).fill(0).map((_, index) => (
                     <div className="box" key={index}>
-                        <div className="thum">
+                        <div className="thum">  
                             <img src={img1} alt="Package" />
                         </div>
                         <div className="dest-content">
@@ -19,11 +19,7 @@ const Packages = () => {
                                 <h4>Place</h4>
                                 <p>4h - 5h</p>
                             </div>
-                            <div className="stars">
-                                {[...Array(5)].map((_, starIndex) => (
-                                    <a key={starIndex}><i className="bx bxs-star"></i></a>
-                                ))}
-                            </div>
+  
                         </div>
                     </div>
                 ))}
